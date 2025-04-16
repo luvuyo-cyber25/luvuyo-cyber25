@@ -1,5 +1,5 @@
 # **Luvuyo Gamede**  
-[LinkedIn](https://www.linkedin.com/in/luvuyo-gamede-84a420261)
+[LinkedIn](https://www.linkedin.com/in/luvuyo-gamede25)
 
 Fast learner with a strong foundation in IT and cybersecurity, transitioning into a **Security Operations Center (SOC) role**. Passionate about securing systems and networks, with hands-on experience in cloud computing, IT support, and cybersecurity.  
 
