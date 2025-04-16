@@ -1,12 +1,13 @@
 # **Luvuyo Gamede**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luvuyo-gamede-84a420261)  
+[LinkedIn](https://www.linkedin.com/in/luvuyo-gamede-84a420261)
 
 Fast learner with a strong foundation in IT and cybersecurity, transitioning into a **Security Operations Center (SOC) role**. Passionate about securing systems and networks, with hands-on experience in cloud computing, IT support, and cybersecurity.  
 
 ---
 
 ## **Objective**  
-Motivated cybersecurity enthusiast seeking a **Tier 1 SOC Analyst** role. Aiming to leverage certifications in **Microsoft Azure, AWS, and Google Cybersecurity** to contribute to incident response, threat analysis, and system security.  
+
+I am a fast learner with a strong foundation in IT and cybersecurity, currently working toward transitioning into a Security Operations Center (SOC) role. My goal is to contribute to the security of systems and networks, using my growing knowledge in cloud computing, IT support, and cybersecurity to tackle emerging challenges.
 
 ---
 
