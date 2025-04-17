@@ -31,7 +31,7 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 ### **2. Active Directory Management**  
 🔹 **Tech/Tools:** PowerShell, Windows Server  
 🔹 **Description:** Automated user account creation and management in Active Directory, showcasing scripting skills and enterprise environment familiarity.  
-🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Active-Directory-with-Powershell)  
+🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Active-Directory-with-Powershell.)  
 
 ---
 
