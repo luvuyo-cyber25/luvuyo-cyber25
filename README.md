@@ -12,17 +12,17 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 ---
 
 ## **Certifications**  
-- [Microsoft Azure Fundamentals AZ-900](https://www.coursera.org/account/accomplishments/specialization/N9N41723B6FQ)  
+- Microsoft Azure Fundamentals AZ-900
 - [AWS Cloud Practitioner](https://www.coursera.org/account/accomplishments/verify/ZGF5G3RTRRGQ)  
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/7PI3ROUVOTCD)  
-- [CompTIA A+ Network](https://www.coursera.org/account/accomplishments/verify/U9G2WKYBAT29)  
+- [CompTIA A+ Network](https://www.coursera.org/account/accomplishments/verify/U9G2WKYBAT29)
+- [CompTIA A+ Cyber](https://www.coursera.org/account/accomplishments/verify/UBZ5NHQJ34OD)  
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/6LFGK4BXBWDE)  
 - Computer Literacy  
 
 ---
 
-## **Projects**  
-
+## **Projects** 
 ### **1. IT Ticketing System**  
 🔹 **Tech/Tools:** Python, SQLite  
 🔹 **Description:** A lightweight system to track and manage IT support tickets, demonstrating problem-solving skills and basic database management.  
