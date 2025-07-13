@@ -36,7 +36,7 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 ### **3. Ethical Hacking & Penetration Testing Lab**  
 🔹 **Tech/Tools:** Kali Linux, Metasploit, Nmap, DVWA, Wireshark  
 🔹 **Description:** A hands-on security lab simulating real attacks to exploit FTP and web app vulnerabilities, demonstrating penetration testing, reconnaissance, and post-exploitation skills.  
-🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Active-Directory-with-Powershell.)  
+🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Pen-testing-Lab)  
 
 ---
 
