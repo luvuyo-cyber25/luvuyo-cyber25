@@ -33,9 +33,14 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 🔹 **Description:** Automated user account creation and management in Active Directory, showcasing scripting skills and enterprise environment familiarity.  
 🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Active-Directory-with-Powershell.)  
 
+### **3. Ethical Hacking & Penetration Testing Lab**  
+🔹 **Tech/Tools:** Kali Linux, Metasploit, Nmap, DVWA, Wireshark  
+🔹 **Description:** A hands-on security lab simulating real attacks to exploit FTP and web app vulnerabilities, demonstrating penetration testing, reconnaissance, and post-exploitation skills.  
+🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Active-Directory-with-Powershell.)  
+
 ---
 
 ## **Contact**  
-📞 **Phone:** +27 68 495 1289  
-📧 **Email:** gamedewandile3@gmail.com  
-🏠 **Address:** 471 Shomayeli Street, Zondi, Soweto  
+ **Phone:** +27 68 495 1289  
+ **Email:** gamedewandile3@gmail.com  
+ **Address:** 471 Shomayeli Street, Zondi, Soweto  
