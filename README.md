@@ -33,6 +33,11 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 🔹 **Description:** A hands-on security lab simulating real attacks to exploit FTP and web app vulnerabilities, demonstrating penetration testing, reconnaissance, and post-exploitation skills.  
 🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Pen-testing-Lab)  
 
+### **3. Vulnerability Management & Risk Assessment Lab**
+🔹 **Tech/Tools:** VirtualBox, Windows 10, Nessus, Excel  
+🔹 **Description:** Simulated a full vulnerability management lifecycle with 4 Nessus scans (basic, credentialed, vulnerable, patched). Injected risks using old software, enabled authenticated scans, and completed risk assessment using top 5 high-impact vulnerabilities.  
+🔹 **Link:** 
+
 ---
 
 ## **Contact**  
