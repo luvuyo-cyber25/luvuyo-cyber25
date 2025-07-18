@@ -23,17 +23,12 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 ---
 
 ## **Projects** 
-### **1. IT Ticketing System**  
-🔹 **Tech/Tools:** Python, SQLite  
-🔹 **Description:** A lightweight system to track and manage IT support tickets, demonstrating problem-solving skills and basic database management.  
-🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/IT_Ticketing_System)  
-
-### **2. Active Directory Management**  
+### **1. Active Directory Management**  
 🔹 **Tech/Tools:** PowerShell, Windows Server  
 🔹 **Description:** Automated user account creation and management in Active Directory, showcasing scripting skills and enterprise environment familiarity.  
 🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Active-Directory-with-Powershell.)  
 
-### **3. Ethical Hacking & Penetration Testing Lab**  
+### **2. Ethical Hacking & Penetration Testing Lab**  
 🔹 **Tech/Tools:** Kali Linux, Metasploit, Nmap, DVWA, Wireshark  
 🔹 **Description:** A hands-on security lab simulating real attacks to exploit FTP and web app vulnerabilities, demonstrating penetration testing, reconnaissance, and post-exploitation skills.  
 🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Pen-testing-Lab)  
