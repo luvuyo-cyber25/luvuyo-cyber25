@@ -36,7 +36,7 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 ### **3. Vulnerability Management & Risk Assessment Lab**
 🔹 **Tech/Tools:** VirtualBox, Windows 10, Nessus, Excel  
 🔹 **Description:** Simulated a full vulnerability management lifecycle with 4 Nessus scans (basic, credentialed, vulnerable, patched). Injected risks using old software, enabled authenticated scans, and completed risk assessment using top 5 high-impact vulnerabilities.  
-🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Pen-testing-Lab)  
+🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Vulnerability-Management-And-Risk-Assessment-Lab)  
 
 ---
 
