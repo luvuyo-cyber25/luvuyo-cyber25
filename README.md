@@ -23,15 +23,15 @@ I am a fast learner with a strong foundation in IT and cybersecurity, currently 
 ---
 
 ## **Projects** 
-### **1. Active Directory Management**  
-🔹 **Tech/Tools:** PowerShell, Windows Server  
-🔹 **Description:** Automated user account creation and management in Active Directory, showcasing scripting skills and enterprise environment familiarity.  
-🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Active-Directory-with-Powershell.)  
+### **1. IT Helpdesk Lab**  
+🔹 **Tech/Tools:** VirtualBox, Windows Server 2022, Windows 10/11, AD DS, DNS, GPO, SMB, RDP, Action1  
+🔹 **Description:** A full Windows enterprise-style environment demonstrating domain controller setup, user management, networking, domain joins, Group Policies, remote access, file sharing, and remote endpoint management.  
+🔹 **Link:** [GitHub Repo]  
 
-### **2. Ethical Hacking & Penetration Testing Lab**  
-🔹 **Tech/Tools:** Kali Linux, Metasploit, Nmap, DVWA, Wireshark  
-🔹 **Description:** A hands-on security lab simulating real attacks to exploit FTP and web app vulnerabilities, demonstrating penetration testing, reconnaissance, and post-exploitation skills.  
-🔹 **Link:** [GitHub Repo](https://github.com/luvuyo-cyber25/Pen-testing-Lab)  
+### **2. SOC Analyst Lab**  
+🔹 **Tech/Tools:** Wazuh (SIEM/XDR), Snort IDS, Ubuntu Server, Windows 10/11, Kali Linux, VirtualBox  
+🔹 **Description:** A SOC environment simulating real security monitoring using Wazuh for log collection/XDR, Snort for network intrusion detection, and Kali Linux for attack traffic.  
+🔹 **Link:** [GitHub Repo]  
 
 ### **3. Vulnerability Management & Risk Assessment Lab**
 🔹 **Tech/Tools:** VirtualBox, Windows 10, Nessus, Excel  
