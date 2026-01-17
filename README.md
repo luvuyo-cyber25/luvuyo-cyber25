@@ -1,44 +1,42 @@
 <div align="center">
-  <h1>Hi there! I'm Luvuyo Gamede👋</h1>
+  <h1>Hi there! I'm Luvuyo Gamede </h1>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-luvuyo-username/">LinkedIn</a> •
-  <a href="mailto:luvuyo.yourname@gmail.com">Email</a> •
+  <a href="linkedin.com/in/luvuyo-gamede25">LinkedIn</a> •
+  <a href="tel:+27614951289">+27 61 495 1289</a> •
+  <a href="gamedewandile3@gmail.com">Email</a> •
   Soweto, Gauteng, South Africa
 </p>
 
 <br/>
 
-
-</p>
-
 ## About Me
-
-- Currently building and documenting home labs focused on **IT Support**, **Endpoint Security** & **Threat Detection**
+- Currently documenting home labs focused on **IT Support**, **Endpoint Security** & **Threat Detection**
+- Learning advanced SIEM, vulnerability management, and cloud security fundamentals
 - Open to roles in: **IT Helpdesk (L1/L2)**, **Technical Support**, **Junior Cybersecurity Analyst**, **SOC Monitoring**
-- Best way to reach me: **LinkedIn** or **email**
+- Best way to reach me: **LinkedIn**, **phone**, or **email**
 - Fun fact: I once simulated & detected a full network scan attack in under 2 minutes in my home lab 
 
 ## Certifications & Coursework
 
 **Completed Certifications**  
-- Google Cybersecurity Professional Certificate  
-- Google IT Support Professional Certificate  
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/7PI3ROUVOTCD)  
+- [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/6LFGK4BXBWDE)  
 
 **Coursework**  
-- Microsoft Azure Fundamentals (AZ-900)  
-- CompTIA A+ Cyber  
-- AWS Cloud Practitioner Essentials  
-- CompTIA A+ Network  
+- [Microsoft Azure Fundamentals (AZ-900)](https://www.coursera.org/account/accomplishments/specialization/N9N41723B6F)  
+- [CompTIA A+ Cyber](https://www.coursera.org/account/accomplishments/records/UBZ5NHQJ34OD)  
+- [AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/records/ZGF5G3RTRRGQ)  
+- [CompTIA A+ Network](https://www.coursera.org/account/accomplishments/records/U9G2WKYBAT29)  
 
 ## My Core Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,azure,linux,powershell" alt="core tools" />
+  <img src="https://skillicons.dev/icons?i=windows,azure,linux,powershell,kali," alt="core tools" />
   <br/><br/>
   <br/>
-  <small>Also experienced with: Active Directory, Group Policy, RDP/Quick Assist, PDQ Deploy, Incident Response, Vulnerability Management, Excel reporting</small>
+  <small>Also experienced with: Active Directory, Group Policy, RDP/Quick Assist, PDQ Deploy, Incident Response, Vulnerability Management, Network Scanning, Excel reporting, Server Administration, Ticketing Systems</small>
 </p>
 
 ## Projects I'm Proud Of
@@ -73,7 +71,7 @@ Here are my hands-on home lab projects demonstrating real-world IT support and c
       <h3>Vulnerability Analyst – Nessus Scanning Lab</h3>
       <br>
       <p>
-        Created a vulnerability management practice lab with Nessus on Windows 10 targets.
+        Created a vulnerability management lab with Nessus on Windows 10 targets. 
       </p>
       <p align="center">
         <a href="https://github.com/luvuyo-cyber25/Vulnerability-Management-And-Risk-Assessment-Lab"><strong>View Project →</strong></a>
@@ -84,4 +82,6 @@ Here are my hands-on home lab projects demonstrating real-world IT support and c
 
 <br/>
 
-
+<div align="center">
+  <i>"Building reliable systems today, defending them tomorrow — one lab, one alert, one ticket at a time." 🛡️💻</i>
+</div>
