@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="linkedin.com/in/luvuyo-gamede25">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/luvuyo-gamede25/">LinkedIn</a> •
   <a href="tel:+27614951289">+27 61 495 1289</a> •
-  <a href="gamedewandile3@gmail.com">Email</a> •
+  <a href="mailto:gamedewandile3@gmail.com">Email</a> •
   Soweto, Gauteng, South Africa
 </p>
 
